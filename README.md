@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-My Bootstrap Portfolio
+# Responsive-Portfolio
+My Original Portfolio
